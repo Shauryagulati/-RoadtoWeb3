@@ -1,0 +1,20 @@
+{
+  "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
+  "external_url": "https://www.alchemy.com/",
+  "image": "https://ipfs.filebase.io/ipfs/QmUmEptpN4H88spLmjFXsPuECCUUaRrKjmRFTJ6y3xpoqt",
+  "name": "Memoji",
+  "attributes": [
+    {
+      "trait_type": "Coolness",
+      "value": "A lot"
+    },
+    {
+      "trait_type": "Token Standard",
+      "value": "ERC721"
+    },
+    {
+      "trait_type": "Worker",
+      "value": "Smart"
+    }
+  ]
+}
